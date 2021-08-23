@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jrodval123
 - 👀 I’m interested in all things computing
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning more on systems programming
 
 <!---
 jrodval123/jrodval123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
